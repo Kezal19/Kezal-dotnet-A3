@@ -1,0 +1,15 @@
+D:\.NET\College Assignments\Practical-3\Practical-3(B)\bin\Debug\net6.0\Practical-3(B).exe
+D:\.NET\College Assignments\Practical-3\Practical-3(B)\bin\Debug\net6.0\Practical-3(B).deps.json
+D:\.NET\College Assignments\Practical-3\Practical-3(B)\bin\Debug\net6.0\Practical-3(B).runtimeconfig.json
+D:\.NET\College Assignments\Practical-3\Practical-3(B)\bin\Debug\net6.0\Practical-3(B).dll
+D:\.NET\College Assignments\Practical-3\Practical-3(B)\bin\Debug\net6.0\ref\Practical-3(B).dll
+D:\.NET\College Assignments\Practical-3\Practical-3(B)\bin\Debug\net6.0\Practical-3(B).pdb
+D:\.NET\College Assignments\Practical-3\Practical-3(B)\obj\Debug\net6.0\Practical-3(B).csproj.AssemblyReference.cache
+D:\.NET\College Assignments\Practical-3\Practical-3(B)\obj\Debug\net6.0\Practical-3(B).GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\College Assignments\Practical-3\Practical-3(B)\obj\Debug\net6.0\Practical-3(B).AssemblyInfoInputs.cache
+D:\.NET\College Assignments\Practical-3\Practical-3(B)\obj\Debug\net6.0\Practical-3(B).AssemblyInfo.cs
+D:\.NET\College Assignments\Practical-3\Practical-3(B)\obj\Debug\net6.0\Practical-3(B).csproj.CoreCompileInputs.cache
+D:\.NET\College Assignments\Practical-3\Practical-3(B)\obj\Debug\net6.0\Practical-3(B).dll
+D:\.NET\College Assignments\Practical-3\Practical-3(B)\obj\Debug\net6.0\ref\Practical-3(B).dll
+D:\.NET\College Assignments\Practical-3\Practical-3(B)\obj\Debug\net6.0\Practical-3(B).pdb
+D:\.NET\College Assignments\Practical-3\Practical-3(B)\obj\Debug\net6.0\Practical-3(B).genruntimeconfig.cache
